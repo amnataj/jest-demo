@@ -1,0 +1,17 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
